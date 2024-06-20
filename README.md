@@ -1,2 +1,2 @@
 # ChessGame
-Play this chess on my readme!
+Play my chess!
